@@ -43,10 +43,15 @@ td {
 }
 
 button {
-  background-color: #001f3f;
+  background-color: #1e3a5f;
   color: white;
-  padding: 8px;
+  padding: 10px 15px;
   border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #16304a;
 }
 
 button:hoover {
